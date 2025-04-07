@@ -1,6 +1,6 @@
 # classroom-music-project
 
-Classroom data science demo project on usage of APIs and relational databases related to Music
+Purposes: For classroom data exploration, small scripts pulling data for non-commercial teaching and demo purposes.
 
 ## Data Sources
 - [getsongbpm.com](https://getsongbpm.com/)
